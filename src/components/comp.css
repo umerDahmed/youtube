@@ -1,0 +1,31 @@
+.form
+{
+    display: block;
+    margin: auto;
+    width: 41%;
+    /* margin-top: 2%; */
+}
+
+.title
+{
+    font-weight: 500;
+    margin: 3px;
+}
+.description
+{
+    font-weight: 400;
+
+}
+p{
+    display: inline;
+}
+.box
+{
+    cursor: pointer;
+}
+.iframe
+{
+    height:500px;
+    width: 700px;
+    margin:2px
+}
